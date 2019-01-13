@@ -1,0 +1,15 @@
+{
+  "short_name": "TopTopics",
+  "name": "TopTopics",
+  "icons": [
+    {
+      "src":"newsicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "",
+  "background_color": "#E6E6E6",
+  "Theme_color": "#007489",
+  "display": "standalone"
+}
