@@ -37,9 +37,10 @@
             <section class="cards">
                 
 
-                {% for topic in topics %}
+                {% for topic, url in topic_and_url.items %}
 
                 <article class="card">
+                  <a href="{{ url }}">
                         <div class="card-content">
 
                             <h2>{{ topic }}</h2>
